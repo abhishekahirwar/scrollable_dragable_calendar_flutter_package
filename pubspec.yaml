@@ -1,7 +1,7 @@
 name: scrollable_dragable_calendar
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/abhishekahirwar/scrollable_dragable_calendar_flutter_package
 
 environment:
   sdk: '>=3.1.1 <4.0.0'
